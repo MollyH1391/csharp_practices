@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Application/Application.csproj": {}
+  },
+  "projects": {
+    "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Application/Application.csproj",
+        "packagesPath": "/Users/peiyihuang/.nuget/packages/",
+        "outputPath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/peiyihuang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Domain/Domain.csproj"
+              },
+              "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-rc.2.22477.23/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Domain/Domain.csproj",
+        "packagesPath": "/Users/peiyihuang/.nuget/packages/",
+        "outputPath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/peiyihuang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-rc.2.22477.23/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/peiyihuang/.nuget/packages/",
+        "outputPath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/peiyihuang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-rc.2.22477.23/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
