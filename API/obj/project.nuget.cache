@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uobv5cREpJh1hyzZ/XN/3lkgKL8Nqcn0YvqBYmMsTuAIs6bQxZLdp/L2WrPoh7ehSRTJ2JQtnUEbYw1FHvjt9A==",
+  "dgSpecHash": "xY+p1cq+0lhwOZiXh7B4TYVJMRhdx2QrEjuLNxkTuzPu7o9g3n+81tftk7cs/iTEbAh+U9eCkHAiEeElf0h5OA==",
   "success": true,
   "projectFilePath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/peiyihuang/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/peiyihuang/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/peiyihuang/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/peiyihuang/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.data.sqlite.core/7.0.0/microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
