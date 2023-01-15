@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "xY+p1cq+0lhwOZiXh7B4TYVJMRhdx2QrEjuLNxkTuzPu7o9g3n+81tftk7cs/iTEbAh+U9eCkHAiEeElf0h5OA==",
+  "dgSpecHash": "0tzlbGRRjLQjdSdLTH2JTExzH4VHslpDEwQz2BABRDvgvXI1Kdj5kFFRk9BP/4VZc6grGb8bmQzM0pk898R+Lg==",
   "success": true,
   "projectFilePath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/peiyihuang/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/peiyihuang/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "/Users/peiyihuang/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.data.sqlite.core/7.0.0/microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

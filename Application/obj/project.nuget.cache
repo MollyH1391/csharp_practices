@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "QczplG1bga//ek3FTBP3xwAK2mfe6TuXKEFEVjtyBqfWYNj5pD97Cy6D48NVqDlsRxTH6yyQ3AscEWUElhW5Kw==",
+  "dgSpecHash": "p0DCToqrWkQB8tvJBfQV7wFZmKXuVLiImrFmaAQTJ/z7ZJJ8oBt0KKDdcO3IToZa7Ruojto5yib5lNrSYEiHTQ==",
   "success": true,
   "projectFilePath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/peiyihuang/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/peiyihuang/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/peiyihuang/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.data.sqlite.core/7.0.0/microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

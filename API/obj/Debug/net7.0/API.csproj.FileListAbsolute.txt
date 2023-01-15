@@ -161,3 +161,5 @@ C:/Users/molly/OneDrive/csharp_project/webapi/Reactivities/API/bin/Debug/net7.0/
 /Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/API/bin/Debug/net7.0/MediatR.dll
 /Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/API/bin/Debug/net7.0/MediatR.Contracts.dll
 /Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/API/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/API/bin/Debug/net7.0/AutoMapper.dll
+/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
