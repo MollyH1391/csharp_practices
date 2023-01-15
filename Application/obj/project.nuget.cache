@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "39NI3gEAJuftPwVHz185SyUlSDLNMcQkVoyXtT+0x1PpeZc/STeUKlGQQ/NW4JRDuA+qHNCrDFQU7D25ssBTQQ==",
+  "dgSpecHash": "QczplG1bga//ek3FTBP3xwAK2mfe6TuXKEFEVjtyBqfWYNj5pD97Cy6D48NVqDlsRxTH6yyQ3AscEWUElhW5Kw==",
   "success": true,
   "projectFilePath": "/Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/peiyihuang/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/peiyihuang/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/peiyihuang/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.data.sqlite.core/7.0.0/microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/peiyihuang/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
