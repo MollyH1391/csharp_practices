@@ -32,6 +32,3 @@ C:/Users/molly/OneDrive/csharp_project/webapi/Reactivities/Application/obj/Debug
 /Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Application/obj/Debug/net7.0/refint/Application.dll
 /Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Application/obj/Debug/net7.0/Application.pdb
 /Users/peiyihuang/Library/CloudStorage/OneDrive-個人/csharp_project/webapi/Reactivities/Application/obj/Debug/net7.0/ref/Application.dll
-C:\Users\molly\OneDrive\csharp_project\webapi\Reactivities\Application\obj\Debug\net7.0\Application.dll
-C:\Users\molly\OneDrive\csharp_project\webapi\Reactivities\Application\obj\Debug\net7.0\refint\Application.dll
-C:\Users\molly\OneDrive\csharp_project\webapi\Reactivities\Application\obj\Debug\net7.0\Application.pdb
